@@ -1,0 +1,39 @@
+!--
+Awannabe Studio
+│-- index.html (Halaman Utama)
+│   ├── Navbar
+│   │   ├── Home
+│   │   ├── Tentang Kami (Section About)
+│   │   ├── Jenis Desain (Section Menu)
+│   │   └── Kontak (Section Contact)
+│   ├── Hero Section
+│   ├── About Section
+│   ├── Menu Section
+│   │   ├── Desain Kaos
+│   │   ├── Desain Logo
+│   │   ├── Desain Banner
+│   │   └── Desain Lainnya
+│   ├── Contact Section
+│   │   └── Formulir Kontak
+│   ├── Footer
+│   │   ├── Social Links (Instagram, WhatsApp)
+│   │   ├── Internal Links (Home, About, Menu, Contact)
+│   │   └── Credit
+│   └── Links ke WhatsApp API (Custom Sekarang)
+│
+├── css/
+│   └── style.css (File CSS untuk Styling)
+│
+├── js/
+│   └── script.js (File JavaScript untuk Fungsionalitas)
+│
+├── img/
+│   ├── data.jpg (Gambar untuk "Tentang Kami")
+│   └── post300.png (Gambar untuk Jenis Desain)
+│
+└── external-links
+    ├── Google Maps Embed
+    ├── Feather Icons (CDN)
+    ├── Google Fonts (Poppins, Lato, Roboto)
+    └── WhatsApp API
+-->
