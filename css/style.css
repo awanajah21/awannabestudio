@@ -202,8 +202,14 @@ body {
 .example-kaos .row .content p {
   margin-bottom: 0.8rem;
   font-size: 1rem;
-  font-weight: 300;
+  font-weight: 500;
   line-height: 1.6;
+}
+
+.example-kaos .row .content p li {
+  list-style: none;
+  font-weight: 300;
+  line-height: 300;
 }
 
 /* menu section */
@@ -425,6 +431,12 @@ footer .credit a {
     font-size: 1.6rem;
   }
 
+  .example-kaos .row .content p li {
+    list-style: none;
+    font-weight: 300;
+    line-height: 300;
+  }
+
   .menu p {
     font-size: 1.2rem;
   }
@@ -451,4 +463,10 @@ footer .credit a {
 .about .row .content,
 .example-kaos .row .content {
   padding: 0;
+}
+
+.example-kaos .row .content p li {
+  list-style: none;
+  font-weight: 300;
+  line-height: 300;
 }
